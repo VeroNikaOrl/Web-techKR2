@@ -112,10 +112,10 @@
     padding-bottom: 50px;
     padding-top: 100px;
 }
-.main_title
+.main .nav
 {
     margin-bottom: 30px;
-    font-size: 33px;
+    font-size: 20px;
     color: #000000;
     text-align: center;
 }
